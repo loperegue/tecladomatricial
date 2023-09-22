@@ -1,5 +1,5 @@
-#ifndef LCD20X4_H
-#define LCD20X4_H
+#ifndef TECLADOMATRICIAL_H
+#define TECLADOMATRICIAL_H
 
 void teclado_init();
 void teclado_key();
